@@ -11,7 +11,7 @@ Music Recommendation System / Content Based Recommendation where based on entere
 
 # Output
 <p align="center">
-<img src='image.jpg" alt="Output" style="width: 75%" />
+<img src="./image/image.jpg" alt="o/p" style="width: 75%" />
 </p>
 
 
