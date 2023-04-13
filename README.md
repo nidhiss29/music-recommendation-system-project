@@ -15,6 +15,17 @@ Music Recommendation System / Content Based Recommendation where based on entere
 </p>
 
 
+# Local Development
+
+- To clone copy the following command in your terminal and start development.
+
+```sh
+git clone https://github.com/nidhiss29/music-recommendation-system-project.git
+```
+
+-or download a zip file
+
+
 
 <br> Dataset present on Drive
 https://drive.google.com/drive/folders/1rliIZmJ7-IjIBhn-nsnbWbDXuS7Nqjv5?usp=sharing
