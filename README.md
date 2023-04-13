@@ -25,6 +25,22 @@ git clone https://github.com/nidhiss29/music-recommendation-system-project.git
 
 -or download a zip file
 
+- cd into the directory
+
+```sh
+cd music-recommendation-system
+```
+- In anaconda prompt cd into the folder and open
+
+```sh
+jupyter notebook
+```
+- Get dataset from the drive and run the given jupyter file 
+
+
+
+
+
 
 
 <br> Dataset present on Drive
