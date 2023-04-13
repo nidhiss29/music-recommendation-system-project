@@ -35,7 +35,8 @@ cd music-recommendation-system
 ```sh
 jupyter notebook
 ```
-- Get dataset from the drive and run the given jupyter file 
+- Get dataset from the drive and store them in same project directory.
+- run the given jupyter file 
 - Further open python file provided named app.py in terminal write command(within project directory)
 ```sh
 streamlit app.py
