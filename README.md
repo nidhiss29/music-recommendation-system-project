@@ -40,6 +40,7 @@ jupyter notebook
 ```sh
 streamlit app.py
 ```
+- You'll get a link to local host copy and paste in your browser
 
 
 
