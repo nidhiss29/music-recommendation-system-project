@@ -23,7 +23,7 @@ Music Recommendation System / Content Based Recommendation where based on entere
 git clone https://github.com/nidhiss29/music-recommendation-system-project.git
 ```
 
--or download a zip file
+- Or download a zip file
 
 - cd into the directory
 
